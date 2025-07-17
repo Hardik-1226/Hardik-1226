@@ -1,9 +1,9 @@
 ### 👋 Hey, I’m Hardik Varshney (@Hardik-1226)  
 
 - 🚀 Passionate about **tech, hackathons, and building innovative projects**.  
-- 💻 Currently learning **C++**, improving **Python**, and exploring **Web3 & AI**.  
+- 💻 Currently learning **java**, improving **Python**, and exploring **Web3 & AI**.  
 - 🔧 Working on projects like **Smart Helmet** & **gesture-based virtual keyboard**.  
-- 🤝 Open to collaborating on **C++, Python, Web3, and AI projects**.   
+- 🤝 Open to collaborating on **java, Python, Web3, and AI projects**.   
 - 📩 Reach me at **hardikvarshney5@gmail.com**  
 - ⚡ Fun fact: I love hackathons, tech events, and exploring new challenges!  
 
