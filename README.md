@@ -1,17 +1,21 @@
 <div align="center">
 
-# 👋 Hi, I'm Hardik Varshney
+```
+██╗  ██╗ █████╗ ██████╗ ██████╗ ██╗██╗  ██╗
+██║  ██║██╔══██╗██╔══██╗██╔══██╗██║██║ ██╔╝
+███████║███████║██████╔╝██║  ██║██║█████╔╝ 
+██╔══██║██╔══██║██╔══██╗██║  ██║██║██╔═██╗ 
+██║  ██║██║  ██║██║  ██║██████╔╝██║██║  ██╗
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝╚═╝  ╚═╝
+```
 
-### `AI/ML` · `Full-Stack Dev` · `Hackathon Builder`
+### Hey, I'm **Hardik Varshney** 👋
+**CS undergrad @ GL Bajaj · AI/ML · Full-Stack · Hackathon Enthusiast**
 
-**CS undergrad @ GL Bajaj Institute of Technology & Management**
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hardik--varshney-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hardik-varshney-83052127b)
-[![GitHub](https://img.shields.io/badge/GitHub-Hardik--1226-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hardik-1226)
-[![LeetCode](https://img.shields.io/badge/LeetCode-250%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com)
-[![Email](https://img.shields.io/badge/Gmail-hardikvarshney5-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hardikvarshney5@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hardik--varshney-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/hardik-varshney-83052127b)
+[![GitHub](https://img.shields.io/badge/GitHub-Hardik--1226-181717?style=flat-square&logo=github)](https://github.com/Hardik-1226)
+[![LeetCode](https://img.shields.io/badge/LeetCode-250%2B_Solved-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com)
+[![Email](https://img.shields.io/badge/Email-hardikvarshney5@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:hardikvarshney5@gmail.com)
 
 </div>
 
@@ -20,9 +24,9 @@
 ## 🧠 About Me
 
 - 🎓 B.Tech in Computer Science **(AI/ML)** at GL Bajaj Institute of Technology & Management `2023–2027`
-- 💼 **Freelance Full-Stack Developer** at Health Plus Innovation Pvt. Ltd. — shipping real production apps
+- 💼 **Freelance Full-Stack Developer** at Health Plus Innovation Pvt. Ltd. — rebuilding real production apps
 - 🏆 Hackathon winner at **IIIT Delhi (Infronix'25)**, Top 10 at **IIT Delhi (Tryst'25)** and **GGSIPU (VesHack'25)**
-- 🤝 **PR Lead** at Abhyudaya Club — organized Supernova hackathon with **500+ participants**
+- 🤝 **PR Lead** at Abhyudaya Club — organized Supernova hackathon with 500+ participants
 - 🔬 Actively building AI/ML and Computer Vision projects for real-world impact
 
 ---
